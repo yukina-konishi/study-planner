@@ -1,0 +1,25 @@
+PLAN: Finals Week
+SESSION
+name=calc_review
+topic=Integration Techniques
+method=practice_problems
+outcome=COMPLETED
+ENDSESSION
+SESSION
+name=os_flashcards
+topic=Process Scheduling
+method=flashcards
+outcome=FLASHCARDS_REVIEWED
+ENDSESSION
+SESSION
+name=db_summary
+topic=Normalization Rules
+method=reading
+outcome=TOPIC_SUMMARY
+ENDSESSION
+SESSION
+name=algo_timed_practice
+topic=Sorting Algorithm Complexity
+method=timed_quiz
+outcome=MINUTES_STUDIED
+ENDSESSION

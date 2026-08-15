@@ -1,0 +1,13 @@
+PLAN: Midterm Prep
+SESSION
+name=review1
+topic=Sorting Algorithms
+method=flashcards
+outcome=COMPLETED
+ENDSESSION
+SESSION
+name=practice1
+topic=BST Traversal
+method=practice_problems
+outcome=MINUTES_STUDIED
+ENDSESSION

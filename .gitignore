@@ -1,0 +1,11 @@
+# Compiled class files
+out/
+*.class
+
+# VS Code settings (optional — some prefer to keep these, but usually excluded)
+.vscode/
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+lib/

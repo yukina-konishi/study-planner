@@ -1,0 +1,13 @@
+PLAN: Bad Plan
+SESSION
+name=review1
+topic=Sorting
+method=flashcards
+outcome=COMPLETED
+ENDSESSION
+SESSION
+name=review1
+topic=Something Else
+method=reading
+outcome=MINUTES_STUDIED
+ENDSESSION
